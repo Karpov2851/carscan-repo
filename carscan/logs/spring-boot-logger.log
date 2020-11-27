@@ -1,0 +1,14 @@
+2020-11-27 16:54:48,248 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.0.21.Final
+2020-11-27 16:54:48,281 INFO org.springframework.boot.StartupInfoLogger [main] Starting CarscanApplication on MSI with PID 12144 (D:\WorkSpace\carscan\target\classes started by vikas in D:\WorkSpace\carscan)
+2020-11-27 16:54:48,281 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.11.RELEASE, Spring v5.2.10.RELEASE
+2020-11-27 16:54:48,282 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-11-27 16:54:49,501 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-11-27 16:54:49,511 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-27 16:54:49,511 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-11-27 16:54:49,511 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-27 16:54:49,634 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-11-27 16:54:49,634 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1308 ms
+2020-11-27 16:54:50,601 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-27 16:54:50,707 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-11-27 16:54:50,725 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-27 16:54:50,728 INFO org.springframework.boot.StartupInfoLogger [main] Started CarscanApplication in 2.851 seconds (JVM running for 3.345)
